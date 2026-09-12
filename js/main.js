@@ -332,8 +332,8 @@ document.addEventListener('DOMContentLoaded', () => {
       window.fbq('track', 'ViewContent', {
         content_name: 'Brain Seduction',
         content_type: 'product',
-        value: 15.00,
-        currency: 'USD'
+        value: 5000,
+        currency: 'NGN'
       });
     }
 
